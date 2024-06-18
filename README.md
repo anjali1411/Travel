@@ -1,4 +1,4 @@
-🌍✈️🌟 **Realme Adventure Project** 🌟✈️🌍
+🌍✈️🌟 **Travel Project** 🌟✈️🌍
 
 
 Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
@@ -13,7 +13,7 @@ Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
 
 
 🌟 **About the Project** 🌟
-Embark on a journey like never before with the Realme Adventure Project. Our mission is to ignite your wanderlust and provide you with the ultimate travel and tourism experience. Whether you're an adrenaline junkie seeking thrilling escapades or a leisure traveler in search of tranquility, we've got it all covered. 🌄🏞️🏖️
+Embark on a journey like never before with the Travel Project. Our mission is to ignite your wanderlust and provide you with the ultimate travel and tourism experience. Whether you're an adrenaline junkie seeking thrilling escapades or a leisure traveler in search of tranquility, we've got it all covered. 🌄🏞️🏖️
 
 
 🌍 **Explore Stunning Destinations** 🌍
