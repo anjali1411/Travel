@@ -10,7 +10,6 @@ Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
 💻 **Code** : HTML, CSS, JavaScript, jQuery, Bootstrap
 
 
-🚀 **Explore the Adventure** : [Adventure Project](https://adventure-swamithedev.vercel.app/) 
 
 
 🌟 **About the Project** 🌟
@@ -29,17 +28,9 @@ Our design team uses Figma and Photoshop to craft stunning visuals that will tra
 Our developers have used HTML, CSS, JavaScript, jQuery, and Bootstrap to create a user-friendly website that ensures smooth navigation and accessibility on any device. 💼📱💻
 
 
-🌟 **Project Live Location** 🌟
-Ready to begin your adventure? Visit our live project site and start exploring the world with us: [Adventure Project](https://adventure-swamithedev.vercel.app/) 🌐
-
 
 📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 anjali.jangir14@gmail.com.
 
-
-🌟 **Portfolio**
-Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here
-
-📌 **Hashtags** : #Adventure #TravelAndTourism #Design #WebDevelopment #ExploreTheWorld #Wanderlust #Figma #Photoshop #HTML #CSS #JS #jQuery #Bootstrap #WebDesign #WebDev #ExploreWithUs #RealmeDesign #AdventureTime
 
 Thank you for being a part of the Realme Adventure Project! 🙌🌏✨
